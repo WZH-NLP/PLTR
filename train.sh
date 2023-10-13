@@ -1,0 +1,1 @@
+python main.py --aug_batch_size 4 --semi_aug_ratio 1 --counter_aug_ratio 1 --drf_num_per_domain 80 --ann_drf_num 50
