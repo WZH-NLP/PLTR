@@ -10,13 +10,13 @@ Recent few-shot cross-domain NER methods confront two challenges:
 In this paper, we propose a framework, prompt learning with type-related features (PLTR), to address these challenges. To identify useful knowledge in the source domain and enhance knowledge transfer, PLTR automatically extracts entity type-related features (TRFs) based on mutual information criteria. To bridge the gap between training and OOD data, PLTR generates a unique prompt for each unseen example by selecting relevant TRFs.
 
 <div align=center>
-<img src="figures/framework.png" width="100%" height="100%">
+<img src="figures/framework.png" width="90%" height="100%">
 </div>
 
 ## Main results
 We evaluate PLTR's performance on the [CrossNER](https://arxiv.org/pdf/2012.04373.pdf) dataset for few-shot cross-domain NER.
 <div align=center>
-<img src="figures/results.png" width="100%" height="100%">
+<img src="figures/results.png" width="90%" height="100%">
 </div>
 
 ## Get stated
