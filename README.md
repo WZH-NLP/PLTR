@@ -1,5 +1,5 @@
 # PLTR
-This repo is a PyTorch implementation of "[Generalizing Few-Shot Named Entity Recognizers to Unseen Domains with Type-Related Features]()" (EMNLP 2023).
+This repo is a PyTorch implementation of "[Generalizing Few-Shot Named Entity Recognizers to Unseen Domains with Type-Related Features](https://arxiv.org/abs/2310.09846)" (EMNLP 2023).
 
 ## Introduction
 Recent few-shot cross-domain NER methods confront two challenges:
